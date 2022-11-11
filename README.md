@@ -1,3 +1,3 @@
-Challenge 01 Horiseon
+First Challenge Optimizng Code for Accessibility 
 
-Goal to update code to allow website to be more accessible 
+Refactoring existing code for client website to structure site and code for higher accessibility.
